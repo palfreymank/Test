@@ -1,0 +1,25 @@
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+h2{
+  font-size: 16px;
+  font-weight: bold;
+}
+.important{
+  font-weight: bold;
+}
+#about_blue{
+  background-color: #6495ED;
+  border: 3px solid black;
+}
+#about_yellow{
+  background-color: #FFEBCD;
+  border: 3px solid black;
+}
+ul .class{
+  background-color: red;
+}
+ul li.about_blue{
+  color: red;
+}
